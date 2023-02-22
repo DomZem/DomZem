@@ -18,7 +18,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%f37ecd)
+![StyledComponents](https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093)
 
 <details><summary><b>💻 Tech Stack</b></summary>
   
@@ -42,3 +42,12 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
+
+<details><summary><b>📧 Contact me</b></summary>
+    <ul>
+        <li><strong>E-mail: </strong><code>dominik.zemlik.dev@gmail.com</code></li>
+        <li><strong><a href="https://www.linkedin.com/in/dominik-zemlik-036291267/"> Linkedin </a>
+    </ul>
+</details>
