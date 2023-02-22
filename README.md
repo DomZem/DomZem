@@ -34,6 +34,7 @@
 ### Frameworks/Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -55,7 +56,7 @@
   
 <details>
   <summary><b>📈 GitHub Stats </b></summary>
-![DomZem GitHub stats](https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&theme=radical)
+  <img align="left" alt="DomZem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=DomZem&label=Profile%20Views&color=12&icon=5&pretty=true" />
   </a>
