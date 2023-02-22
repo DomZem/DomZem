@@ -55,6 +55,7 @@
   
 <details>
   <summary><b>📈 GitHub Stats </b></summary>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&theme=radical)
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=DomZem&label=Profile%20Views&color=12&icon=5&pretty=true" />
   </a>
