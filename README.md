@@ -45,9 +45,17 @@
 
 </details>
 
-<details><summary><b>📧 Contact me</b></summary>
-    <ul>
-        <li><strong>E-mail: </strong><code>dominik.zemlik.dev@gmail.com</code></li>
-        <li><strong><a href="https://www.linkedin.com/in/dominik-zemlik-036291267/"> Linkedin </a>
-    </ul>
+<details>
+  <summary><b>📧 Contact me</b></summary>
+  <ul>
+    <li><strong>E-mail: </strong><code>dominik.zemlik.dev@gmail.com</code></li>
+    <li><strong><a href="https://www.linkedin.com/in/dominik-zemlik-036291267/"> Linkedin </a>
+  </ul>
+</details>
+  
+<details>
+  <summary><b>📈 GitHub Stats </b></summary>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=DomZem&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  </a>
 </details>
