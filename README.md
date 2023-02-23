@@ -65,11 +65,12 @@
   
 ---
   
-### 💻 My projects (1)
+### 💻 My main projects
   
 <a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-api/blob/main/.github/readmeHeaderImage.png"   alt="countries app main view" width="450px" height="312px" align="right" ></a>
   
 <h3>📌 Countries API </h3> 
+<p>- Solution of frontend mentor challenge. The application generates a list of countries from the API. You can also click on any country item to get more information about it.</p>
 <p>✅ Finished </p>
 <p>💻 https://github.com/DomZem/countries-api </p>
   
