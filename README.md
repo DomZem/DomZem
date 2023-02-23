@@ -20,15 +20,16 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093)
 
-<details><summary><b>💻 Tech Stack</b></summary>
+<details>
+<summary><b>💻 Tech Stack</b></summary>
   
-  ### Languages:
+### Languages:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
-  ### Cloud Providers:
+### Cloud Providers:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### Frameworks/Libraries:
@@ -48,6 +49,7 @@
 
 <details>
   <summary><b>📧 Contact me</b></summary>
+  <br />
   <ul>
     <li><strong>E-mail: </strong><code>dominik.zemlik.dev@gmail.com</code></li>
     <li><strong><a href="https://www.linkedin.com/in/dominik-zemlik-036291267/"> Linkedin </a>
@@ -56,8 +58,7 @@
   
 <details>
   <summary><b>📈 GitHub Stats </b></summary>
+  <br />
+  <img align="left" alt="DomZem's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomZem" /> 
   <img align="left" alt="DomZem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DomZem&label=Profile%20Views&color=12&icon=5&pretty=true" />
-  </a>
 </details>
