@@ -62,3 +62,22 @@
   <img align="left" alt="DomZem's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomZem" /> 
   <img align="left" alt="DomZem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
+  
+---
+  
+### 💻 My projects (1)
+  
+<a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-api/blob/main/.github/readmeHeaderImage.png"   alt="countries app main view" width="450px" height="312px" align="right" ></a>
+  
+<h3>📌 Countries API </h3> 
+<p>✅ Finished </p>
+<p>💻 https://github.com/DomZem/countries-api </p>
+  
+<br>
+
+<div align="left">
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+	<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+	<img src='https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093'/>
+</div>
+
