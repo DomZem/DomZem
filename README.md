@@ -50,7 +50,7 @@
 <details>
   <summary><b>📈 GitHub Stats </b></summary>
   <br /> 
-  <img align="left" alt="DomZem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img alt="DomZem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
 <details>
@@ -62,22 +62,59 @@
   </ul>
 </details>
 
+<details><summary><b>👨‍💻 VSCode Settings</b></summary>
+	
+```
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "'Fira code', 'Courier New', monospace",
+	"workbench.colorTheme": "Palenight (Mild Contrast)",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": "active",
+	"editor.formatOnSave": true,
+	"editor.tabSize": 2,
+	"[javascript]": {
+		"editor.formatOnSave": true
+	},
+	"[typescript]": {
+		"editor.formatOnSave": true
+	},
+	"prettier.jsxSingleQuote": true,
+	"prettier.semi": true,
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 200,
+	"prettier.endOfLine": "lf",
+	"prettier.singleQuote": true,
+	"emmet.triggerExpansionOnTab": true,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"editor.formatOnPaste": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "always"
+}
+```	
+</details>
+
 ---
   
 ### 💻 My main projects
   
 <a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-api/blob/main/.github/readmeHeaderImage.png"   alt="countries app main view" width="450px" height="312px" align="right" ></a>
   
-<h3>📌 Countries API </h3> 
-<p>- Solution of frontend mentor challenge. The application generates a list of countries from the API. You can also click on any country item to get more information about it.</p>
-<p>✅ Finished </p>
-<p>💻 https://github.com/DomZem/countries-api </p>
+<h3>📌 Countries API </h3>
+<h4>📑 Project description: </h4>
+<p>Solution of frontend mentor challenge. The application generates a list of countries from the API. You can also click on any country item to get more information about it.</p>
+<p>💻 Link to repository: https://github.com/DomZem/countries-api </p>
   
 <br>
 
 <div align="left">
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-	<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-	<img src='https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093'/>
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+  <img src='https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093'/>
 </div>
 
