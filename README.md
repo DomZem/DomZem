@@ -46,6 +46,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
+  
+<details>
+  <summary><b>📈 GitHub Stats </b></summary>
+  <br /> 
+  <img align="left" alt="DomZem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</details>
 
 <details>
   <summary><b>📧 Contact me</b></summary>
@@ -55,14 +61,7 @@
     <li><strong><a href="https://www.linkedin.com/in/dominik-zemlik-036291267/"> Linkedin </a>
   </ul>
 </details>
-  
-<details>
-  <summary><b>📈 GitHub Stats </b></summary>
-  <br />
-  <img align="left" alt="DomZem's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomZem" /> 
-  <img align="left" alt="DomZem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DomZem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-  
+
 ---
   
 ### 💻 My main projects
