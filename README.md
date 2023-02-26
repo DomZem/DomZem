@@ -118,3 +118,19 @@
   <img src='https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093'/>
 </div>
 
+<br />
+	
+<a href="https://github.com/DomZem/github-user-search-app" target="_blank"><img src="https://github.com/DomZem/github-user-search-app/blob/main/.github/readmeHeaderImage-1.png"   alt="countries app main view" width="450px" height="312px" align="right" ></a>
+	
+<h3>📌 GitHub user search </h3>
+<h4>📑 Project description: </h4>
+<p>Solution of frontend mentor challenge. The application generates information taken from the github API about the user's account, such as login, name, number of followers, repositories, etc.</p>
+<p>💻 Link to repository: https://github.com/DomZem/github-user-search-app </p>
+  
+<br>
+
+<div align="left">
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+  <img src='https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093'/>
+</div>
