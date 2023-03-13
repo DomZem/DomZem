@@ -7,7 +7,7 @@
 **💁‍♂️ Something about me**
 
 <ul>
-  <li> 👦 I'm 20 years old
+  <li> 👦 I'm 21 years old
   <li> 🎂 Born 11th October
   <li> 🌱 I'm coding in JavaScript, TypeScript and C#
   <li> 🔭 I'm learning React and its ecosystem
