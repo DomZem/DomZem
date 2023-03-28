@@ -105,7 +105,7 @@
   
 ### 💻 My main projects
   
-<a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-search-app/blob/main/.github/readmeHeaderImage.png"   alt="countries app main view" width="50%" align="right" ></a>
+<a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-search-app/blob/main/.github/countries-search-app-main.jpg" width="50%" align="right" ></a>
   
 <h3>📌 Countries search </h3>
 <h4>📑 Project description: </h4>
