@@ -122,7 +122,7 @@
 
 <br />
 		
-<a href="https://github.com/DomZem/github-user-search-app" target="_blank"><img src="https://github.com/DomZem/planets-fact-app/blob/main/.github/planets-fact-app-structure.png" alt="countries app main view" width="50%" align="right" ></a>
+<a href="https://github.com/DomZem/planets-fact-app" target="_blank"><img src="https://github.com/DomZem/planets-fact-app/blob/main/.github/planets-fact-app-structure.jpg" alt="countries app main view" width="50%" align="right" ></a>
 	
 <h3>📌 Planets fact </h3>
 <h4>📑 Project description: </h4>
