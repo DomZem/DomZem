@@ -105,7 +105,7 @@
   
 ### 💻 My main projects
   
-<a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-search-app/blob/main/.github/readmeHeaderImage.png"   alt="countries app main view" width="450px" height="312px" align="right" ></a>
+<a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-search-app/blob/main/.github/readmeHeaderImage.png"   alt="countries app main view" width="50%" align="right" ></a>
   
 <h3>📌 Countries search </h3>
 <h4>📑 Project description: </h4>
@@ -121,13 +121,13 @@
 </div>
 
 <br />
+		
+<a href="https://github.com/DomZem/github-user-search-app" target="_blank"><img src="https://github.com/DomZem/planets-fact-app/blob/main/.github/planets-fact-app-structure.png" alt="countries app main view" width="50%" align="right" ></a>
 	
-<a href="https://github.com/DomZem/github-user-search-app" target="_blank"><img src="https://github.com/DomZem/github-user-search-app/blob/main/.github/readmeHeaderImage-1.png"   alt="countries app main view" width="450px" height="312px" align="right" ></a>
-	
-<h3>📌 GitHub user search </h3>
+<h3>📌 Planets fact </h3>
 <h4>📑 Project description: </h4>
-<p>Solution of frontend mentor challenge. The application generates information taken from the github API about the user's account, such as login, name, number of followers, repositories, etc.</p>
-<p>💻 Link to repository: https://github.com/DomZem/github-user-search-app </p>
+<p>Solution of frontend mentor challenge. The application generates information about planet given from the API. Every single planet have special color for active link, button and loading spinner.</p>
+<p>💻 Link to repository: https://github.com/DomZem/planets-fact-app </p>
   
 <br>
 
