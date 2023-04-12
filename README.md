@@ -60,7 +60,7 @@
   <br />
   <ul>
     <li><strong>E-mail: </strong><code>dominik.zemlik.dev@gmail.com</code></li>
-    <li><strong><a href="https://www.linkedin.com/in/dominik-zemlik-036291267/"> Linkedin </a>
+    <li><strong><a href="https://www.linkedin.com/in/dominik-zemlik/"> Linkedin </a>
   </ul>
 </details>
 
