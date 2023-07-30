@@ -106,19 +106,19 @@
   
 ### 💻 My main projects
   
-<a href="https://github.com/DomZem/countries-api" target="_blank"><img src="https://github.com/DomZem/countries-search-app/blob/main/.github/countries-search-app-main.jpg" width="50%" align="right" ></a>
+<a href="https://github.com/DomZem/entertainment-app" target="_blank"><img src="https://i.imgur.com/1toYVkv.jpeg" width="50%" align="right" ></a>
   
-<h3>📌 Countries search </h3>
+<h3>📌 Entertainment app </h3>
 <h4>📑 Project description: </h4>
-<p>Solution of frontend mentor challenge. The application generates a list of countries taken from the API. You can also click on any country item to get more information about it.</p>
-<p>💻 Link to repository: https://github.com/DomZem/countries-search-app </p>
+<p>Solution of frontend mentor challenge. The application allows you to log in with your google account using Firebase. You can search for tv series/movies and add them to your favorite collection.</p>
+<p>💻 Link to repository: https://github.com/DomZem/entertainment-app </p>
   
 <br>
 
 <div align="left">
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-  <img src='https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093'/>
+  <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 </div>
 
 <br />
