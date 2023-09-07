@@ -106,6 +106,23 @@
   
 ### 💻 My main projects
   
+<a href="https://github.com/DomZem/kanban-task-management-app" target="_blank"><img src="https://i.imgur.com/e4f9VKC.png" alt="kanban task management main view" width="50%" align="right" ></a>
+	
+<h3>📌 Kanban task management </h3>
+<h4>📑 Project description: </h4>
+<p>A kanban board is a tool that can be used to manage work at a personal or organizational level. It visually depicts work at various stages of a process using cards to represent work items and columns to represent each stage of the process. This is a responsive web app built with React and Redux.</p>
+<p>💻 Link to repository: https://github.com/DomZem/kanban-task-management-app </p>
+  
+<br>
+
+<div align="left">
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+  <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
+</div>
+
+<br />
+
 <a href="https://github.com/DomZem/entertainment-app" target="_blank"><img src="https://i.imgur.com/1toYVkv.jpeg" width="50%" align="right" ></a>
   
 <h3>📌 Entertainment app </h3>
@@ -119,21 +136,4 @@
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
   <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
-</div>
-
-<br />
-		
-<a href="https://github.com/DomZem/planets-fact-app" target="_blank"><img src="https://github.com/DomZem/planets-fact-app/blob/main/.github/planets-fact-app-structure.jpg" alt="countries app main view" width="50%" align="right" ></a>
-	
-<h3>📌 Planets fact </h3>
-<h4>📑 Project description: </h4>
-<p>Solution of frontend mentor challenge. The application generates information about planet given from the API. Every single planet have special color for active link, button and loading spinner.</p>
-<p>💻 Link to repository: https://github.com/DomZem/planets-fact-app </p>
-  
-<br>
-
-<div align="left">
-  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-  <img src='https://img.shields.io/badge/styled%20components-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%DB7093'/>
 </div>
