@@ -113,34 +113,38 @@
   
 ### 💻 My main projects
   
-<a href="https://github.com/DomZem/kanban-task-management-app" target="_blank"><img src="https://i.imgur.com/e4f9VKC.png" alt="kanban task management main view" width="50%" align="right" ></a>
+<a href="https://github.com/DomZem/task-management-next-app" target="_blank">
+	<img src="https://i.imgur.com/Omk6amT.png" alt="kanban task management boards page" width="50%" align="right" >
+</a>
 	
-<h3>📌 Kanban task management </h3>
+<h3>📌 Kanban Task Management </h3>
 <h4>📑 Project description: </h4>
-<p>A kanban board is a tool that can be used to manage work at a personal or organizational level. It visually depicts work at various stages of a process using cards to represent work items and columns to represent each stage of the process. This is a responsive web app built with React and Redux.</p>
-<p>💻 Link to repository: https://github.com/DomZem/kanban-task-management-app </p>
+<p>Kanban Task Management allows users to manage their tasks and boards efficiently. The app features a sleek user interface with support for dark and light themes. Users can perform CRUD operations on tasks and boards, create an account using their email address.</p>
+<p>💻 Link to repository: https://github.com/DomZem/task-management-next-app </p>
   
 <br>
 
 <div align="left">
-  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
   <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 </div>
 
 <br />
 
-<a href="https://github.com/DomZem/entertainment-app" target="_blank"><img src="https://i.imgur.com/1toYVkv.jpeg" width="50%" align="right" ></a>
+<a href="https://github.com/DomZem/invoice-next-app" target="_blank">
+	<img src="https://i.imgur.com/Q3ca5Oo.png" width="50%" align="right" >
+</a>
   
-<h3>📌 Entertainment app </h3>
+<h3>📌 Invoice </h3>
 <h4>📑 Project description: </h4>
-<p>Solution of frontend mentor challenge. The application allows you to log in with your google account using Firebase. You can search for tv series/movies and add them to your favorite collection.</p>
-<p>💻 Link to repository: https://github.com/DomZem/entertainment-app </p>
+<p>Invoice allows users to read invoices with pagination, filter them by status (Draft, Pending, Paid), and displays toasts for every mutation operation. </p>
+<p>💻 Link to repository: https://github.com/DomZem/invoice-next-app </p>
   
 <br>
 
 <div align="left">
-  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
   <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 </div>
