@@ -11,7 +11,6 @@
   <li> 🎂 Born 11th October
   <li> 🌱 I'm coding in JavaScript, TypeScript and C#
   <li> 🔭 I'm learning React and its ecosystem
-  <li> 🎯 Goal for this year: Get a job as Frontend Developer
 </ul>
 
 **🌱 Main and Favourite Stack**
